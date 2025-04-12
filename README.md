@@ -29,6 +29,7 @@ Poslední aktualizace -> 12. 4. 2025
 | 23 | ![27](https://github.com/user-attachments/assets/695f413e-3ec2-4826-a29c-139d32336969) | [Ananaso-Manie.cz](https://minecraftservery.eu/server/ananaso-manie) | Prodej klíčů, neférových výhod, herní měny | ✘ / BotSentry / BotSentry AntiVPN |
 | 24 | ![28](https://github.com/user-attachments/assets/ce4b7780-6ddd-4fc8-8752-03eb6f5d1e18) | [Lacraft.cz](https://minecraftservery.eu/server/lacraft.986) | Prodej neférových výhod | AntiCrasher / ✘ / ✘ |
 | 25 | ![29](https://github.com/user-attachments/assets/fa70d606-b3f7-4be7-a94b-2d7c819f96c7) | [Ately.eu](https://minecraftservery.eu/server/atelyeu) | Prodej klíčů | LPX / XCord / ✘ |
+| 26 | ![26](https://github.com/user-attachments/assets/8187071c-470a-4e8d-bfb6-ae115945b105) | [NortBoxMC.eu](https://craftlist.org/nortbox) | Prodej klíčů, unbanů a unmutů | ? / ? / ? |
 
 Jedná se pouze o náš názor.
 Tímto listem nechceme nikoho pošpinit nebo zesměšnit.
