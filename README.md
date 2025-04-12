@@ -22,14 +22,13 @@ Poslední aktualizace -> 12. 4. 2025
 | 16 | ![download](https://github.com/user-attachments/assets/8eebc00a-d564-41d2-b669-4daadd260a21) | [EpiPlay.eu](https://craftlist.org/mc-epiplay-eu) | Prodej klíčů, neférových výhod, herní měny | ✘ / ✘ / AdvancedAntiVPN |
 | 17 | ![20](https://github.com/user-attachments/assets/0cfb2303-908e-4545-8e33-0a87354f36e2) | [KastrolCraft.cz](https://kastrolcraft.cz/home) | Prodej klíčů, neférových výhod | LPX / ✘ / V4Guard |
 | 18 | ![21](https://github.com/user-attachments/assets/ebcba9e5-aafb-4dda-bb36-aa3b1225a9f5) | [TrenEnd.eu](https://craftlist.org/trenend-eu-survival-skyblock-creative-parkour-1-8-1-14) | Prodej klíčů, neférových výhod | SpigotGuard / ✘ / Custom |
-| 19 | ![22](https://github.com/user-attachments/assets/c421a9ab-7ebc-403f-888e-8fb1945cb4ea) | [BadHub.cz](https://craftlist.org/badhub) | Prodej neférových výhod | ExploitFixer / BotSentry / BotSentry AntiVPN |
-| 20 | ![23](https://github.com/user-attachments/assets/0c34f8a3-c355-4dac-90b2-dbed1aedaae1) | [AquaVille.sk](https://craftlist.org/aquaville-survival) | Prodej neférových výhod | ✘ / ✘ / ✘ |
-| 21 | ![24](https://github.com/user-attachments/assets/17301bdb-892e-4dac-8fb5-289b280a6afb) | [Aetherix.eu](https://craftlist.org/arconix-eu) | Prodej klíčů, unbanů, unmutů, neférových výhod, herní měny | ✘ / ✘ / AdvancedAntiVPN |
-| 22 | ![25](https://github.com/user-attachments/assets/4ceff522-7562-4b79-8e99-01505e55adcf) | [GameDreams.eu](https://minecraftservery.eu/server/gamedreams) | Prodej klíčů, neférových výhod, herní měny, spawnerů  | LPX / ✘ / AdvancedAntiVPN |
-| 23 | ![26](https://github.com/user-attachments/assets/23d8885d-00a3-4dd3-9a38-cfc64b8338d8) | [Majnrik.cz](https://minecraftservery.eu/server/majnrik) | Prodej klíčů, unbanů, unmutů | ✘ / BotSentry / BotSentry AntiVPN |
-| 24 | ![27](https://github.com/user-attachments/assets/695f413e-3ec2-4826-a29c-139d32336969) | [Ananaso-Manie.cz](https://minecraftservery.eu/server/ananaso-manie) | Prodej klíčů, neférových výhod, herní měny | ✘ / BotSentry / BotSentry AntiVPN |
-| 25 | ![28](https://github.com/user-attachments/assets/ce4b7780-6ddd-4fc8-8752-03eb6f5d1e18) | [Lacraft.cz](https://minecraftservery.eu/server/lacraft.986) | Prodej neférových výhod | AntiCrasher / ✘ / ✘ |
-| 26 | ![29](https://github.com/user-attachments/assets/fa70d606-b3f7-4be7-a94b-2d7c819f96c7) | [Ately.eu](https://minecraftservery.eu/server/atelyeu) | Prodej klíčů | LPX / XCord / ✘ |
+| 19 | ![23](https://github.com/user-attachments/assets/0c34f8a3-c355-4dac-90b2-dbed1aedaae1) | [AquaVille.sk](https://craftlist.org/aquaville-survival) | Prodej neférových výhod | ✘ / ✘ / ✘ |
+| 20 | ![24](https://github.com/user-attachments/assets/17301bdb-892e-4dac-8fb5-289b280a6afb) | [Aetherix.eu](https://craftlist.org/arconix-eu) | Prodej klíčů, unbanů, unmutů, neférových výhod, herní měny | ✘ / ✘ / AdvancedAntiVPN |
+| 21 | ![25](https://github.com/user-attachments/assets/4ceff522-7562-4b79-8e99-01505e55adcf) | [GameDreams.eu](https://minecraftservery.eu/server/gamedreams) | Prodej klíčů, neférových výhod, herní měny, spawnerů  | LPX / ✘ / ✘ |
+| 22 | ![26](https://github.com/user-attachments/assets/23d8885d-00a3-4dd3-9a38-cfc64b8338d8) | [Majnrik.cz](https://minecraftservery.eu/server/majnrik) | Prodej klíčů, unbanů, unmutů | ✘ / BotSentry / BotSentry AntiVPN |
+| 23 | ![27](https://github.com/user-attachments/assets/695f413e-3ec2-4826-a29c-139d32336969) | [Ananaso-Manie.cz](https://minecraftservery.eu/server/ananaso-manie) | Prodej klíčů, neférových výhod, herní měny | ✘ / BotSentry / BotSentry AntiVPN |
+| 24 | ![28](https://github.com/user-attachments/assets/ce4b7780-6ddd-4fc8-8752-03eb6f5d1e18) | [Lacraft.cz](https://minecraftservery.eu/server/lacraft.986) | Prodej neférových výhod | AntiCrasher / ✘ / ✘ |
+| 25 | ![29](https://github.com/user-attachments/assets/fa70d606-b3f7-4be7-a94b-2d7c819f96c7) | [Ately.eu](https://minecraftservery.eu/server/atelyeu) | Prodej klíčů | LPX / XCord / ✘ |
 
 Jedná se pouze o náš názor.
 Tímto listem nechceme nikoho pošpinit nebo zesměšnit.
