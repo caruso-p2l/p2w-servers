@@ -1,6 +1,6 @@
 
 # List československých P2W serverů
-Poslední aktualizace -> 12. 4. 2025
+Poslední aktualizace -> 19. 4. 2025
 
 | # | Logo | Název | Důvod | Protection |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -30,6 +30,7 @@ Poslední aktualizace -> 12. 4. 2025
 | 24 | ![28](https://github.com/user-attachments/assets/ce4b7780-6ddd-4fc8-8752-03eb6f5d1e18) | [Lacraft.cz](https://minecraftservery.eu/server/lacraft.986) | Prodej neférových výhod | AntiCrasher / ✘ / ✘ |
 | 25 | ![29](https://github.com/user-attachments/assets/fa70d606-b3f7-4be7-a94b-2d7c819f96c7) | [Ately.eu](https://minecraftservery.eu/server/atelyeu) | Prodej klíčů | LPX / XCord / ✘ |
 | 26 | ![26](https://github.com/user-attachments/assets/828d5ee1-d534-47b3-8089-07a9c39fa733) | [NortBoxMC.eu](https://craftlist.org/nortbox) | Prodej klíčů, unbanů a unmutů | ? / ? / ? |
+| 27 | ![27](https://github.com/user-attachments/assets/d223946d-2fb2-45a0-9fe6-3ecfad6c34c1) | [DiaWorlds.eu](https://minecraftservery.eu/server/1860) | Prodej klíčů | ? / ? / ? |
 
 Jedná se pouze o náš názor.
 Tímto listem nechceme nikoho pošpinit nebo zesměšnit.
