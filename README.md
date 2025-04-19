@@ -31,6 +31,8 @@ Poslední aktualizace -> 19. 4. 2025
 | 25 | ![29](https://github.com/user-attachments/assets/fa70d606-b3f7-4be7-a94b-2d7c819f96c7) | [Ately.eu](https://minecraftservery.eu/server/atelyeu) | Prodej klíčů | LPX / XCord / ✘ |
 | 26 | ![26](https://github.com/user-attachments/assets/828d5ee1-d534-47b3-8089-07a9c39fa733) | [NortBoxMC.eu](https://craftlist.org/nortbox) | Prodej klíčů, unbanů a unmutů | ? / ? / ? |
 | 27 | ![27](https://github.com/user-attachments/assets/d223946d-2fb2-45a0-9fe6-3ecfad6c34c1) | [DiaWorlds.eu](https://minecraftservery.eu/server/1860) | Prodej klíčů | ? / ? / ? |
+| 28 | ![28](https://github.com/user-attachments/assets/c71bcd88-abf4-440b-863a-9cae53c5570d) | [CZSMP.cz](https://minecraftservery.eu/server/czsmp) | Prodej klíčů, herní měny, neférových výhod | ? / ? / ? |
+| 29 | ![29](https://github.com/user-attachments/assets/a864ee61-4fb4-4db5-af9a-4c0be9ab4d49) | [FOX-CREW.eu](https://minecraftservery.eu/server/fox-crew) | Prodej klíčů, herní měny, unbanů, unmutů | ? / ? / ? |
 
 Jedná se pouze o náš názor.
 Tímto listem nechceme nikoho pošpinit nebo zesměšnit.
