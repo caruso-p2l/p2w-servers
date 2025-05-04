@@ -1,6 +1,6 @@
 
 # List československých P2W serverů
-Poslední aktualizace -> 19. 4. 2025
+Poslední aktualizace -> 4. 5. 2025
 
 | # | Logo | Název | Důvod | Protection |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -33,6 +33,7 @@ Poslední aktualizace -> 19. 4. 2025
 | 27 | ![27](https://github.com/user-attachments/assets/d223946d-2fb2-45a0-9fe6-3ecfad6c34c1) | [DiaWorlds.eu](https://minecraftservery.eu/server/1860) | Prodej klíčů | ? / ? / ? |
 | 28 | ![28](https://github.com/user-attachments/assets/c71bcd88-abf4-440b-863a-9cae53c5570d) | [CZSMP.cz](https://minecraftservery.eu/server/czsmp) | Prodej klíčů, herní měny, neférových výhod | ? / ? / ? |
 | 29 | ![29](https://github.com/user-attachments/assets/a864ee61-4fb4-4db5-af9a-4c0be9ab4d49) | [FOX-CREW.eu](https://minecraftservery.eu/server/fox-crew) | Prodej klíčů, herní měny, unbanů, unmutů | ? / ? / ? |
+| 30 | ![30](https://github.com/user-attachments/assets/42814b45-f6d8-4b2e-a9cb-eb60a39feeb1) | [Therapie.cz](https://minecraftservery.eu/server/therapiecz) | Prodej klíčů, herní měny, neférových výhod | LPX / BotSentry / ✘ |
 
 Jedná se pouze o náš názor.
 Tímto listem nechceme nikoho pošpinit nebo zesměšnit.
